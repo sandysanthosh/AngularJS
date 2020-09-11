@@ -3,6 +3,7 @@
 ###  Angulajs Run this Commandn in NODEJS: -> To get the folder Structure for Angular
 
 
+
         sudo npm install -g @angular/cli
 
         npm install -g @angular/cli@6.1.1
