@@ -2,7 +2,7 @@
 
 ###  Angulajs Run this Commandn in NODEJS: -> To get the folder Structure for Angular
 
-
+Install ÑPM nodejs:
 
         sudo npm install -g @angular/cli
 
