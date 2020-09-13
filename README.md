@@ -2,6 +2,19 @@
 
 ###  Angulajs Run this Commandn in NODEJS: -> To get the folder Structure for Angular
 
+#### QUICK START
+
+        
+        npm install -g @angular/cli
+
+        ng new my-dream-app
+
+        cd my-dream-app
+
+        ng serve
+
+        
+
 Install ÑPM nodejs:
 
         sudo npm install -g @angular/cli
